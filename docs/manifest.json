@@ -1,0 +1,8 @@
+{
+  "name": "Leave Threads",
+  "description": "Set a parent channel ID and automatically leave every thread under it. Adds a trash button under your server list to leave them all on demand.",
+  "authors": [{ "name": "prueba74848-wq" }],
+  "main": "index.js",
+  "hash": "103eba202b9f9d240159342db541e7b4b39b05de28fee1f2cdba29516d6a7a11",
+  "vendetta": { "icon": "ic_message_delete" }
+}
